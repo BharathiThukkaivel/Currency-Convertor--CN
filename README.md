@@ -1,5 +1,8 @@
 The objective of a project focused on developing a currency conversion service  is to create a client-server application that allows users to easily convert one currency (provided by the users) to another over a network, such as the internet.
- ** IMPLEMENTATION**
+
+
+IMPLEMENTATION
+
 1.Client-Server Architecture:
 A client-server architecture has been established using Python's socket module for communication. This allows the client and server to exchange data over a TCP connection.
 
