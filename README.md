@@ -1,0 +1,1 @@
+The objective of a project focused on developing a currency conversion service  is to create a client-server application that allows users to easily convert one currency (provided by the users) to another over a network, such as the internet.
